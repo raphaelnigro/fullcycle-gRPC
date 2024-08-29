@@ -1,4 +1,4 @@
-module raphaelnigro/gRPC
+module github.com/raphaelnigro/devfullcycle-14-gRPC
 
 go 1.18
 
